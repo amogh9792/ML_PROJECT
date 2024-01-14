@@ -1,3 +1,13 @@
+import sys
+import os
+
+# Get the absolute path of the directory containing the script
+script_directory = os.path.dirname(os.path.abspath(__file__))
+
+# Add the project root directory to the Python path
+project_root = os.path.abspath(os.path.join(script_directory, ".."))
+sys.path.append(project_root)
+
 import os
 import sys
 from src.exception import CustomException
