@@ -1,3 +1,5 @@
+# The above class performs data ingestion by reading a dataset, splitting it into train and test sets,
+# and saving them as CSV files.
 import sys
 import os
 
