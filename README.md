@@ -2,32 +2,6 @@
 
 This repository contains code and documentation for a project analyzing student performance indicators. The project explores how various factors such as gender, ethnicity, parental level of education, lunch type, and test preparation course affect student test scores.
 
-### Contents:
-
-1. **Project Overview:**
-   - Brief description of the project and its objectives.
-
-2. **Data Source:**
-   - Link to the dataset used in the analysis.
-
-3. **File Structure:**
-   - Description of files and folders included in the repository.
-
-4. **Installation:**
-   - Instructions for setting up the project environment and dependencies.
-
-5. **Usage:**
-   - Steps to run the code and reproduce the analysis.
-
-6. **Analysis Summary:**
-   - Key insights and findings from the analysis.
-
-7. **Contributing:**
-   - Guidelines for contributing to the project.
-
-8. **License:**
-   - Information about the project's license.
-
 ### Project Overview:
 
 The project aims to understand the relationship between various demographic and environmental factors and student performance in exams. It involves data collection, preprocessing, exploratory data analysis (EDA), visualization, and interpretation of results.
